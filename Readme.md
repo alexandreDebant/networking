@@ -8,4 +8,4 @@ Counting Actor: verifies in 15 sec
 
 Key-value store: verifies in 5 sec
 
-    leon KVS* FifoNetwork.scala Networking.scala MMap.scala --assumepre
+    leon KVS* FifoNetwork.scala Networking.scala OMap.scala --assumepre
